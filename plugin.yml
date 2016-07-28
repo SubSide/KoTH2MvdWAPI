@@ -1,0 +1,5 @@
+name: Koth2MvdWAPI
+main: subside.plugins.koth2mvdwapi.KoTH2MvdWAPI
+version: 1.0 (1.3.0 ALPHA)
+author: SubSide
+depend: [KoTH, MVdWPlaceholderAPI]
